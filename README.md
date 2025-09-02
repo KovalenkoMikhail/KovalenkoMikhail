@@ -3,7 +3,7 @@
 
 ## 🛠 Skills
 
-| Category          | Tools & Technologies |
+| Category          | Skill |
 |-------------------|-----------------------|
 | **Automation**    | Playwright + JavaScript, Java + Selenium (previous) |
 | **Tools**         | Chrome DevTools, Swagger, Postman, Charles Proxy, Graylog, RabbitMQ |
@@ -22,7 +22,7 @@ Master's degree in Industrial Engineering.
 
 
 
-### 🔧 Tech Stack (Visual)
+### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
