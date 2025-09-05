@@ -1,6 +1,3 @@
-# MasterMikhail
-
-
 ## 🛠 Skills
 
 | Category          | Skill |
