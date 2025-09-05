@@ -1,7 +1,7 @@
 ## 🛠 Skills
 
 - [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
-- [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
+- [myNote](https://github.com/KovalenkoMikhail/my-note)
 - [ Postman](https://github.com/KovalenkoMikhail/Postman)
 
 
