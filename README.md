@@ -1,5 +1,10 @@
 ## 🛠 Skills
 
+- [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
+- [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
+- [ Postman](https://github.com/KovalenkoMikhail/Postman)
+
+
 | Category          | Skill |
 |-------------------|-----------------------|
 | **Automation**    | Playwright + JavaScript, Java + Selenium (previous) |
