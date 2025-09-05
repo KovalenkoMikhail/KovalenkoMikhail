@@ -1,10 +1,5 @@
 ## 🛠 Skills
 
-- [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
-- [myNote](https://github.com/KovalenkoMikhail/my-note)
-- [ Postman](https://github.com/KovalenkoMikhail/Postman)
-
-
 | Category          | Skill |
 |-------------------|-----------------------|
 | **Automation**    | Playwright + JavaScript, Java + Selenium (previous) |
@@ -16,6 +11,10 @@
 | **Documentation** | Test cases, Checklists, Bug reports, Test reports |
 | **English**       | Intermediate |
 
+Examples my practice work:
+- [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
+- [myNote](https://github.com/KovalenkoMikhail/my-note)
+- [Postman](https://github.com/KovalenkoMikhail/Postman)
 
 
 ## Education
