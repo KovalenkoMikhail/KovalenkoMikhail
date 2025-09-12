@@ -2,7 +2,7 @@
 
 | Category          | Skill |
 |-------------------|-----------------------|
-| **Automation**    | JavaScript + Playwright, Java + Selenium (previous) |
+| **Automation**    | JavaScript + Playwright, Java + Selenium |
 | **Tools**         | Chrome DevTools, Swagger, Postman, Charles Proxy, Graylog, RabbitMQ |
 | **CI/CD**         | Git, Jenkins, GitHub |
 | **Relational DB** | SQL |
