@@ -1,3 +1,6 @@
+## Hi, I’m Mykhailo Kovalenko. 
+I enjoy writing code, automating processes, and solving problems — glad you’re here!
+
 ## 🛠 Skills
 
 | Category          | Skill |
@@ -11,7 +14,7 @@
 | **Documentation** | Test cases, Checklists, Bug reports, Test reports |
 | **English**       | Intermediate |
 
-Examples my practice work:
+## 🦾👨‍💻Examples my practice work:
 - [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
 - [Java-calculator-project](https://github.com/KovalenkoMikhail/calculator-project)
 - [my-playwright-examples](https://github.com/KovalenkoMikhail/my-playwright-examples)
@@ -19,13 +22,13 @@ Examples my practice work:
 - [Postman](https://github.com/KovalenkoMikhail/Postman)
 
 
-## Education
+## 🧠👨‍🎓Education
 - NTU "Kharkiv Polytechnic Institute" 2017 - 2022 
 Master's degree in Industrial Engineering.
 
 
 
-### 🔧 Tech Stack
+### 🔧🧑‍💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
