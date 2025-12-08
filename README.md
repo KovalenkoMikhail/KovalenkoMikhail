@@ -13,6 +13,8 @@
 
 Examples my practice work:
 - [ExampleJS](https://github.com/KovalenkoMikhail/example-my-JS-code)
+- [Java-calculator-project](https://github.com/KovalenkoMikhail/calculator-project)
+- [my-playwright-examples](https://github.com/KovalenkoMikhail/my-playwright-examples)
 - [myNote](https://github.com/KovalenkoMikhail/my-note)
 - [Postman](https://github.com/KovalenkoMikhail/Postman)
 
