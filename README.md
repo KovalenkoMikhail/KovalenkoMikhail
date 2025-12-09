@@ -55,7 +55,5 @@ Master's degree in Industrial Engineering.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/§/mysql-original.svg" width="40" height="40"/>
-
   </p>
 </div>
