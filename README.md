@@ -11,7 +11,7 @@ I enjoy writing code, automating processes, and solving problems — glad you’
 | **Relational DB** | SQL |
 | **NoSQL DB**      | MongoDB |
 | **Networks**      | HTTP, Client-server architecture, OSI model |
-| **Documentation** | Test cases, Checklists, Bug reports, Test reports |
+| **Documentation** | Test cases, Checklists, Bug reports, Test reports, Test plan|
 | **English**       | Intermediate |
 
 ## 🦾👨‍💻Examples my practice work:
