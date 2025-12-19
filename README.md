@@ -19,7 +19,10 @@ I enjoy writing code, automating processes, and solving problems — glad you’
 - [Java-calculator-project](https://github.com/KovalenkoMikhail/calculator-project)
 - [my-playwright-examples](https://github.com/KovalenkoMikhail/my-playwright-examples)
 - [myNote](https://github.com/KovalenkoMikhail/my-note)
-- [Postman](https://github.com/KovalenkoMikhail/Postman)
+- [Postman](https://github.com/KovalenkoMikhail/)
+- [note-Advanced-web-automation-course](https://github.com/KovalenkoMikhail/note-Advanced-web-automation-course)
+
+
 
 
 ## 🧠👨‍🎓Education
